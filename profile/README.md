@@ -17,7 +17,7 @@ We are a community-driven initiative dedicated to building **lightweight, open-s
 ### **What do we do?**
 We don't build locked-down products—we build **starter projects**. Our goal is to eliminate the "hard first bit" of development, giving you a functional foundation to build your own custom AI. Whether you use our assistants as a plug-and-play solution or as a framework for your own invention, the power is in your hands.
 
-*   **See it in action:** Explore our [hub1 Live Demo on Wokwi](https://wokwi.com).
+**See it in action:** Explore our [hub1 Live Demo on Wokwi](https://wokwi.com).
 
 ---
 
